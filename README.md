@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/976498882961891438"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://t.me/iislayver"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/islayver"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.npmjs.com/~slayver"><img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
 </p>
 
