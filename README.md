@@ -30,7 +30,7 @@ I'm Slayver, a developer focused on web development, backend engineering, and Di
 
 ```javascript
 const slayver = {
-  username: 'iSlayver',
+  username: 'Slayver',
   role: 'Web & Backend Developer',
 
   expertise: [
