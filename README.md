@@ -43,41 +43,71 @@ I enjoy solving technical challenges, developing useful tools, and creating reli
 
 ```javascript
 const slayver = {
-    username: "iSlayver",
-    role: "Web & Backend Developer",
+  username: "iSlayver",
+  role: "Web & Backend Developer",
 
-    skills: [
-        "JavaScript",
-        "Node.js",
-        "Express.js",
-        "Discord.js",
-        "HTML",
-        "CSS"
-    ],
+  expertise: [
+    "Web Development",
+    "Backend Engineering",
+    "Discord Bot Development",
+    "REST API Development",
+    "Software Architecture",
+    "Automation Systems",
+    "Database Management"
+  ],
 
-    databases: [
-        "MongoDB",
-        "Firebase",
-        "SQLite"
-    ],
+  languages: [
+    "JavaScript",
+    "HTML5",
+    "CSS3"
+  ],
 
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "npm",
-        "Docker",
-        "PM2",
-        "Cloudflare"
-    ],
+  technologies: [
+    "Node.js",
+    "Express.js",
+    "Discord.js",
+    "WebSockets"
+  ],
 
-    interests: [
-        "Backend Development",
-        "API Development",
-        "Discord Bots",
-        "Automation",
-        "System Design"
-    ],
+  databases: [
+    "MongoDB",
+    "Mongoose",
+    "Firebase",
+    "SQLite"
+  ],
 
-    philosophy: "Build. Improve. Repeat."
+  programming: [
+    "Object-Oriented Programming",
+    "Asynchronous Programming",
+    "Event-Driven Programming",
+    "Modular Architecture",
+    "Middleware Development",
+    "Error Handling",
+    "API Integration"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "npm",
+    "Postman"
+  ],
+
+  projectExperience: [
+    "Discord Bots & Automation",
+    "Web Applications",
+    "Backend Services",
+    "REST API Integrations",
+    "npm Package Development"
+  ],
+
+  interests: [
+    "Software Engineering",
+    "System Design",
+    "Backend Optimization",
+    "Scalable Applications",
+    "Open Source"
+  ]
 };
+```
