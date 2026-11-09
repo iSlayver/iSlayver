@@ -6,7 +6,7 @@
 
 I build web applications, Discord bots, and backend systems.
 
-<a href="https://discord.com/users/976498882961891438"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.com/users/860544794521239553"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://t.me/islayver"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.npmjs.com/~slayver"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 
