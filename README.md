@@ -98,5 +98,6 @@ const slayver = {
     'Backend Optimization',
     'Scalable Applications',
     'Open Source'
-  ],
+  ]
+};
 ```
