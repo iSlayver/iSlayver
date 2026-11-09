@@ -30,70 +30,74 @@ I'm Slayver, a developer focused on web development, backend engineering, and Di
 
 ```javascript
 const slayver = {
-    username: "iSlayver",
-    role: "Web & Backend Developer",
+  username: "iSlayver",
+  role: "Web & Backend Developer",
 
-    expertise: [
-        "Web Development",
-        "Backend Engineering",
-        "Discord Bot Development",
-        "REST API Development",
-        "Software Architecture",
-        "Automation Systems",
-        "Database Management"
-    ],
+  expertise: [
+    "Web Development",
+    "Backend Engineering",
+    "Discord Bot Development",
+    "REST API Development",
+    "Software Architecture",
+    "Automation Systems",
+    "Payment Processing",
+    "Database Management"
+  ],
 
-    languages: [
-        "JavaScript",
-        "HTML5",
-        "CSS3"
-    ],
+  languages: [
+    "JavaScript",
+    "HTML5",
+    "CSS3"
+  ],
 
-    technologies: [
-        "Node.js",
-        "Express.js",
-        "Discord.js",
-        "WebSockets"
-    ],
+  technologies: [
+    "Node.js",
+    "Express.js",
+    "Discord.js",
+    "WebSockets"
+  ],
 
-    databases: [
-        "MongoDB",
-        "Mongoose",
-        "Firebase",
-        "SQLite"
-    ],
+  databases: [
+    "MongoDB",
+    "Mongoose",
+    "Firebase",
+    "SQLite"
+  ],
 
-    programming: [
-        "Object-Oriented Programming",
-        "Asynchronous Programming",
-        "Event-Driven Programming",
-        "Modular Architecture",
-        "Middleware Development",
-        "Error Handling",
-        "API Integration"
-    ],
+  programming: [
+    "Object-Oriented Programming",
+    "Asynchronous Programming",
+    "Event-Driven Programming",
+    "Modular Architecture",
+    "Middleware Development",
+    "Error Handling",
+    "API Integration"
+  ],
 
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "npm",
-        "Postman"
-    ],
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "npm",
+    "Postman"
+  ],
 
-    projectExperience: [
-        "Discord Bots & Automation",
-        "Web Applications",
-        "Backend Services",
-        "REST API Integrations",
-        "npm Package Development"
-    ],
+  projectExperience: [
+    "Discord Bots & Automation",
+    "Payment Processing Systems",
+    "Marketplace & Escrow Systems",
+    "Web Applications",
+    "Backend Services",
+    "REST API Integrations",
+    "npm Package Development"
+  ],
 
-    interests: [
-        "Software Engineering",
-        "System Design",
-        "Backend Optimization",
-        "Scalable Applications",
-        "Open Source"
-    ]
-};
+  interests: [
+    "Software Engineering",
+    "System Design",
+    "Backend Optimization",
+    "Scalable Applications",
+    "Open Source"
+  ],
+}; 
+```
