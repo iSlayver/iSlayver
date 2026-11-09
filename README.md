@@ -2,29 +2,15 @@
 
 # Slayver
 
-**Web Developer · Backend Developer · Discord Bot Developer**
+**Web & Backend Developer**
 
-Building practical solutions through clean and reliable code.
+I build web applications, Discord bots, and backend systems.
 
-<br>
+<a href="https://discord.com/users/976498882961891438"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://t.me/islayver"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.npmjs.com/~slayver"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Web+Development;Backend+Engineering;Discord+Bot+Development;Automation+%26+APIs" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=iSlayver&style=flat-square&color=58A6FF&label=Profile+Views" />
-
-<br><br>
-
-<a href="https://discord.com/users/976498882961891438">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-<a href="https://t.me/islayver">
-  <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://www.npmjs.com/~slayver">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=iSlayver&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -32,16 +18,12 @@ Building practical solutions through clean and reliable code.
 
 ## About
 
-I'm Slayver, a developer focused on building web applications, backend systems, and Discord bots.
-
-I enjoy solving technical challenges, developing useful tools, and creating reliable applications with clean and maintainable code.
+I'm Slayver, a developer focused on web development, backend engineering, and Discord bot development. I enjoy building practical applications, developing APIs, and solving complex programming challenges.
 
 ## Technologies
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,discordjs,html,css,mongodb,firebase,git,github,vscode&theme=dark" />
-
 </div>
 
 ## Technical Profile
