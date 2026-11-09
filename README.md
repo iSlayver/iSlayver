@@ -97,7 +97,7 @@ const slayver = {
     'System Design',
     'Backend Optimization',
     'Scalable Applications',
-    'Open Source'
+    'Clean Code'
   ]
 };
 ```
