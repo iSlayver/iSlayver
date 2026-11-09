@@ -16,10 +16,15 @@ Building practical solutions through clean and reliable code.
 
 <br><br>
 
-<a href="https://discord.com/users/976498882961891438">Discord</a> ·
-<a href="https://t.me/islayver">Telegram</a> ·
-<a href="https://www.npmjs.com/~slayver">npm</a> ·
-<a href="https://github.com/iSlayver">GitHub</a>
+<a href="https://discord.com/users/976498882961891438">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://t.me/islayver">
+  <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://www.npmjs.com/~slayver">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+</a>
 
 </div>
 
@@ -43,71 +48,70 @@ I enjoy solving technical challenges, developing useful tools, and creating reli
 
 ```javascript
 const slayver = {
-  username: "iSlayver",
-  role: "Web & Backend Developer",
+    username: "iSlayver",
+    role: "Web & Backend Developer",
 
-  expertise: [
-    "Web Development",
-    "Backend Engineering",
-    "Discord Bot Development",
-    "REST API Development",
-    "Software Architecture",
-    "Automation Systems",
-    "Database Management"
-  ],
+    expertise: [
+        "Web Development",
+        "Backend Engineering",
+        "Discord Bot Development",
+        "REST API Development",
+        "Software Architecture",
+        "Automation Systems",
+        "Database Management"
+    ],
 
-  languages: [
-    "JavaScript",
-    "HTML5",
-    "CSS3"
-  ],
+    languages: [
+        "JavaScript",
+        "HTML5",
+        "CSS3"
+    ],
 
-  technologies: [
-    "Node.js",
-    "Express.js",
-    "Discord.js",
-    "WebSockets"
-  ],
+    technologies: [
+        "Node.js",
+        "Express.js",
+        "Discord.js",
+        "WebSockets"
+    ],
 
-  databases: [
-    "MongoDB",
-    "Mongoose",
-    "Firebase",
-    "SQLite"
-  ],
+    databases: [
+        "MongoDB",
+        "Mongoose",
+        "Firebase",
+        "SQLite"
+    ],
 
-  programming: [
-    "Object-Oriented Programming",
-    "Asynchronous Programming",
-    "Event-Driven Programming",
-    "Modular Architecture",
-    "Middleware Development",
-    "Error Handling",
-    "API Integration"
-  ],
+    programming: [
+        "Object-Oriented Programming",
+        "Asynchronous Programming",
+        "Event-Driven Programming",
+        "Modular Architecture",
+        "Middleware Development",
+        "Error Handling",
+        "API Integration"
+    ],
 
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "npm",
-    "Postman"
-  ],
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "npm",
+        "Postman"
+    ],
 
-  projectExperience: [
-    "Discord Bots & Automation",
-    "Web Applications",
-    "Backend Services",
-    "REST API Integrations",
-    "npm Package Development"
-  ],
+    projectExperience: [
+        "Discord Bots & Automation",
+        "Web Applications",
+        "Backend Services",
+        "REST API Integrations",
+        "npm Package Development"
+    ],
 
-  interests: [
-    "Software Engineering",
-    "System Design",
-    "Backend Optimization",
-    "Scalable Applications",
-    "Open Source"
-  ]
+    interests: [
+        "Software Engineering",
+        "System Design",
+        "Backend Optimization",
+        "Scalable Applications",
+        "Open Source"
+    ]
 };
-```
