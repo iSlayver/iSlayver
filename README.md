@@ -33,7 +33,7 @@ const slayver = {
   username: 'Slayver',
   age: 18,
   location: 'Egypt',
-  website: 'https://slayver.com',
+  website: 'https://www.slayver.com/',
 
   role: 'Full-stack Developer',
 
