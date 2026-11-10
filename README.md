@@ -31,6 +31,11 @@ I'm Slayver, a developer focused on web development, backend engineering, and Di
 ```javascript
 const slayver = {
   username: 'Slayver',
+  age: 18,
+  location: 'Egypt',
+
+  website: 'https://slayver.com',
+
   role: 'Web & Backend Developer',
 
   expertise: [
