@@ -18,12 +18,12 @@ I build web applications, Discord bots, and backend systems.
 
 ## About
 
-I'm Slayver, a developer focused on web development, backend engineering, and Discord bot development. I enjoy building practical applications, developing APIs, and solving complex programming challenges.
+I'm Slayver, a developer focused on web development, backend engineering, and Discord bot development. I enjoy building practical applications, designing reliable APIs, and developing scalable systems that solve real-world problems.
 
 ## Technologies
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,discordjs,html,css,mongodb,firebase,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,nextjs,discordjs,html,css,mongodb,firebase,sqlite,prisma,cloudflare,git,github,vscode&theme=dark" />
 </div>
 
 ## Technical Profile
@@ -35,6 +35,7 @@ const slayver = {
 
   expertise: [
     'Web Development',
+    'Frontend Development',
     'Backend Engineering',
     'Discord Bot Development',
     'REST API Development',
@@ -46,6 +47,7 @@ const slayver = {
 
   languages: [
     'JavaScript',
+    'TypeScript',
     'HTML5',
     'CSS3'
   ],
@@ -53,8 +55,12 @@ const slayver = {
   technologies: [
     'Node.js',
     'Express.js',
+    'React.js',
+    'Next.js',
     'Discord.js',
-    'WebSockets'
+    'WebSockets',
+    'Cloudflare',
+    'REST APIs'
   ],
 
   databases: [
@@ -64,6 +70,10 @@ const slayver = {
     'SQLite'
   ],
 
+  databaseTools: [
+    'Prisma'
+  ],
+
   programming: [
     'Object-Oriented Programming',
     'Asynchronous Programming',
@@ -71,7 +81,8 @@ const slayver = {
     'Modular Architecture',
     'Middleware Development',
     'Error Handling',
-    'API Integration'
+    'API Integration',
+    'Database Modeling'
   ],
 
   tools: [
@@ -79,17 +90,26 @@ const slayver = {
     'GitHub',
     'VS Code',
     'npm',
-    'Postman'
+    'Postman',
+    'Linux'
+  ],
+
+  deployment: [
+    'Git-Based Deployment',
+    'VPS Management',
+    'Process Management',
+    'Production Debugging'
   ],
 
   projectExperience: [
     'Discord Bots & Automation',
     'Payment Processing Systems',
-    'Marketplace & Escrow Systems',
+    'Marketplace & E-commerce System',
     'Web Applications',
     'Backend Services',
     'REST API Integrations',
-    'npm Package Development'
+    'Npm Package Development',
+    'Database-Driven Applications'
   ],
 
   interests: [
@@ -97,7 +117,7 @@ const slayver = {
     'System Design',
     'Backend Optimization',
     'Scalable Applications',
-    'Clean Code'
+    'Clean Code',
+    'Performance Optimization'
   ]
 };
-```
