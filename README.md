@@ -65,7 +65,6 @@ const slayver = {
 
   databases: [
     'MongoDB',
-    'Mongoose',
     'Firebase',
     'SQLite'
   ],
